@@ -1,0 +1,9 @@
+name: fnb-ynab
+channels:
+- defaults
+- conda-forge
+dependencies:
+- selenium
+- pyvirtualdisplay
+#- pip:
+#  - chromedriver_installer
